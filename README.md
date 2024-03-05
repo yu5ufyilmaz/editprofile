@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/lRdejWPe1qsdZLh6Ws/giphy-downsized-large.gif" align="right" width="400" height="250">
+<iframe src="https://giphy.com/embed/fH2QdgdIZDegFg7wQM" width="480" height="337" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/indie-inside-fH2QdgdIZDegFg7wQM">via GIPHY</a></p>
 
 ### Hi everyone, I'm Yusuf :wave:
 
