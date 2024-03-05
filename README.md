@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/fH2QdgdIZDegFg7wQM" width="480" height="337" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/indie-inside-fH2QdgdIZDegFg7wQM">via GIPHY</a></p>
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k0a2hid2ZvZGhmb2dvYTFlN3M1YWkwbno1NnM1NzR3ZW8yMXJyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fH2QdgdIZDegFg7wQM/giphy.gif)
+
 
 ### Hi everyone, I'm Yusuf :wave:
 
