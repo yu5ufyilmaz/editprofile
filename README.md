@@ -5,8 +5,6 @@
 
 #### Game Developer | Blockchain Developer | Digital Game Design Student
 
-Tea :tea: is how I keep up with `<code />`
-
 #### Reach out to me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yu5ufyilmaz/)
