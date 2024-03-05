@@ -3,7 +3,7 @@
 
 ### Hi everyone, I'm Yusuf :wave:
 
-#### Game Developer | Blockchain Developer | Digital Game Design Student
+#### Game Developer | Digital Game Design Student
 
 #### Reach out to me
 
